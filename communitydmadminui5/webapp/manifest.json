@@ -44,7 +44,7 @@
             "documentTable": {
                 "name": "com.sap.ecm.reuse.documentTable",
                 "settings": {
-                    "destinationPath": "/api",
+                    "destinationPath": "/comsapecmreuse.comsapecmreusedocumentTable/api",
                     "repositoryId": "ZDMSBTP",
                     "objectId": "d6b08c7000d34bae5753cc26"
                 }
