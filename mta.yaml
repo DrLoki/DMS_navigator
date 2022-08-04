@@ -10,7 +10,7 @@ modules:
   - name: uaa_CommunityDMAdmin
   - name: sapcommunity_dm
     properties: 
-      destinations: '[{"name": "sdibackend", "url": "https://api-sdm-di.cfapps.eu10.hana.ondemand.com", "forwardAuthToken": true}]'
+      destinations: "[{\"name\": \"sdibackend\", \"url\": \"https://api-sdm-di.cfapps.eu10.hana.ondemand.com\", \"forwardAuthToken\": true}]"
   parameters:
     disk-quota: 256M
     memory: 256M

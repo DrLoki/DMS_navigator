@@ -18,6 +18,6 @@
     }
   ],
   "oauth2-configuration": {
-      "redirect-uris": ["https://twinergy-s-p-a--demodigital-pay-0lh37oes-space-dms-comm6d86465d.cfapps.eu10-004.hana.ondemand.com"]
+      "redirect-uris": ["https://twinergy-s-p-a--demodigital-pay-0lh37oes-dms-admin-app-38570dda.cfapps.eu10-004.hana.ondemand.com"]
   }
 }
